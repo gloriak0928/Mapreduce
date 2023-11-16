@@ -1,4 +1,4 @@
-EECS 485 Project 4 Mapreduce
+Project: Mapreduce
 ===========================
 
 
@@ -13,5 +13,3 @@ The MapReduce framework consists of two major pieces of code. A Manager listens 
 $ python3 -m venv env/
 $ source env/bin/activate
 ```
-
-By Yuxin Kang, Lucas Sun, Weijun Fan
